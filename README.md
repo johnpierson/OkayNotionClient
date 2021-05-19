@@ -52,3 +52,5 @@ namespace NotionSample
 ```
 
 resulting in:
+ <img src="https://github.com/johnpierson/OkayNotionClient/blob/main/!documentation/01_Usage.gif" alt="OkayNotionUsage" width="600">
+
