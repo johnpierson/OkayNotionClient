@@ -66,3 +66,7 @@ resulting in:
 
 <img src="https://github.com/johnpierson/OkayNotionClient/blob/main/!documentation/01_Usage.gif" alt="OkayNotionUsage" width="800">
 
+## Built With
+The `OkayNotionClient` project relies on a few community-published NuGet packages as listed below :
+* [Newtonsoft](https://www.nuget.org/packages/newtonsoft.json/) - handles serializing and deserializing to JSON
+* [RestSharp](https://www.nuget.org/packages/RestSharp/) - enables easier interaction with REST API endpoints
