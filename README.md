@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://github.com/johnpierson/OkayNotionClient/blob/main/!documentation/socialLogo.png" alt="Relay" width="800">
 </h1>
-<h4 align="center">Okay Notion Client aims to provide easy and okay access to the [Notion.so](https://www.notion.so/) API for .NET users..
+<h4 align="center">Okay Notion Client aims to provide easy and okay access to the <a href="https://www.notion.so/">Notion.so</a> API for .NET users..
     <br>
 <sub><sup>Notion logo credit: <a href="https://www.notion.so/Media-Kit-205535b1d9c4440497a3d7a2ac096286">Notion Media Kit</a></sub></sup>
 </h4>
