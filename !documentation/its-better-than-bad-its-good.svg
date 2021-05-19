@@ -42,7 +42,7 @@
      id="namedview68"
      showgrid="false"
      inkscape:zoom="2.2841874"
-     inkscape:cx="179.18068"
+     inkscape:cx="104.53707"
      inkscape:cy="-25.984475"
      inkscape:window-x="951"
      inkscape:window-y="0"
@@ -64,31 +64,120 @@
      height="35"
      width="208.03276"
      y="0.028999999" />
-  <flowRoot
-     xml:space="preserve"
-     id="flowRoot879"
+  <g
+     aria-label="IT'S BETTER THAN BAD"
+     transform="matrix(0.40715605,0,0,0.40715605,14.434256,37.026367)"
      style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Gotham;-inkscape-font-specification:'Gotham, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-     transform="matrix(0.40715605,0,0,0.40715605,14.434256,37.026367)"><flowRegion
-       id="flowRegion881"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;font-family:Gotham;-inkscape-font-specification:'Gotham, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"><rect
-         id="rect883"
-         width="520.53528"
-         height="66.106659"
-         x="-21.889624"
-         y="-70.88678"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;font-family:Gotham;-inkscape-font-specification:'Gotham, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
-       id="flowPara885">IT'S BETTER THAN BAD</flowPara></flowRoot>  <flowRoot
-     xml:space="preserve"
-     id="flowRoot879-6"
+     id="flowRoot879">
+    <path
+       d="m -17.448672,-33.886719 h 2.08 v -28 h -2.08 z"
+       style=""
+       id="path844" />
+    <path
+       d="M 0.96882812,-33.886719 H 3.0488281 v -26.08 h 9.7599999 v -1.92 H -8.7911719 v 1.92 h 9.76000002 z"
+       style=""
+       id="path846" />
+    <path
+       d="m 17.706328,-51.726719 h 1.16 l 2.84,-9.96 v -0.2 h -2.6 z"
+       style=""
+       id="path848" />
+    <path
+       d="m 37.845078,-33.486719 c 5.4,0 9.28,-3.12 9.28,-7.64 v -0.08 c 0,-4.08 -2.72,-6.4 -9.2,-7.72 -6.64,-1.36 -8.16,-3.16 -8.16,-6.12 v -0.08 c 0,-2.92 2.72,-5.28 6.84,-5.28 3.08,0 5.72,0.88 8.36,3.16 l 1.32,-1.64 c -2.84,-2.28 -5.52,-3.4 -9.6,-3.4 -5.2,0 -9,3.2 -9,7.36 v 0.08 c 0,4.24 2.72,6.52 9.44,7.88 6.36,1.28 7.92,3 7.92,5.96 v 0.08 c 0,3.2 -2.88,5.56 -7.08,5.56 -4.12,0 -6.96,-1.32 -10.04,-4.16 l -1.36,1.56 c 3.36,3 6.8,4.48 11.28,4.48 z"
+       style=""
+       id="path850" />
+    <path
+       d="m 66.021328,-33.886719 h 12.16 c 6.04,0 10.04,-2.96 10.04,-7.64 v -0.08 c 0,-3.88 -2.96,-5.8 -6.32,-6.68 2.28,-0.92 4.76,-2.84 4.76,-6.64 v -0.08 c 0,-1.76 -0.64,-3.24 -1.8,-4.4 -1.56,-1.56 -4.12,-2.48 -7.28,-2.48 h -11.56 z m 2.08,-15.08 v -11 h 9.44 c 4.48,0 7,2.08 7,5.16 v 0.08 c 0,3.72 -3,5.76 -7.2,5.76 z m 0,13.16 v -11.24 h 9.48 c 5.52,0 8.52,2 8.52,5.44 v 0.08 c 0,3.52 -3.04,5.72 -7.84,5.72 z"
+       style=""
+       id="path852" />
+    <path
+       d="m 94.927578,-33.886719 h 20.120002 v -1.92 H 97.007578 v -11.24 h 16.040002 v -1.92 H 97.007578 v -11 h 17.840002 v -1.92 H 94.927578 Z"
+       style=""
+       id="path854" />
+    <path
+       d="m 129.48445,-33.886719 h 2.08 v -26.08 h 9.76 v -1.92 h -21.6 v 1.92 h 9.76 z"
+       style=""
+       id="path856" />
+    <path
+       d="m 155.42195,-33.886719 h 2.08 v -26.08 h 9.76 v -1.92 h -21.6 v 1.92 h 9.76 z"
+       style=""
+       id="path858" />
+    <path
+       d="m 173.59945,-33.886719 h 20.12 v -1.92 h -18.04 v -11.24 h 16.04 v -1.92 h -16.04 v -11 h 17.84 v -1.92 h -19.92 z"
+       style=""
+       id="path860" />
+    <path
+       d="m 200.39633,-33.886719 h 2.08 v -11.6 h 9.16 l 8.92,11.6 h 2.64 l -9.24,-11.96 c 4.72,-0.64 8.2,-3.32 8.2,-8 v -0.08 c 0,-2 -0.8,-3.88 -2.12,-5.2 -1.68,-1.68 -4.44,-2.76 -7.88,-2.76 h -11.76 z m 2.08,-13.48 v -12.6 h 9.56 c 5.08,0 8.04,2.36 8.04,6.12 v 0.08 c 0,4.04 -3.48,6.4 -8.16,6.4 z"
+       style=""
+       id="path862" />
+    <path
+       d="m 249.09383,-33.886719 h 2.08 v -26.08 h 9.76 v -1.92 h -21.6 v 1.92 h 9.76 z"
+       style=""
+       id="path864" />
+    <path
+       d="m 267.27133,-33.886719 h 2.08 v -13.12 h 17.92 v 13.12 h 2.08 v -28 h -2.08 v 12.96 h -17.92 v -12.96 h -2.08 z"
+       style=""
+       id="path866" />
+    <path
+       d="m 295.26195,-33.886719 h 2.16 l 3.56,-7.84 h 16.52 l 3.56,7.84 h 2.28 l -13.04,-28.2 h -2 z m 6.6,-9.72 7.4,-16.2 7.36,16.2 z"
+       style=""
+       id="path868" />
+    <path
+       d="m 329.22445,-33.886719 h 2 v -24.88 l 19.72,24.88 h 1.56 v -28 h -2 v 24.36 l -19.32,-24.36 h -1.96 z"
+       style=""
+       id="path870" />
+    <path
+       d="m 372.8182,-33.886719 h 12.16 c 6.04,0 10.04,-2.96 10.04,-7.64 v -0.08 c 0,-3.88 -2.96,-5.8 -6.32,-6.68 2.28,-0.92 4.76,-2.84 4.76,-6.64 v -0.08 c 0,-1.76 -0.64,-3.24 -1.8,-4.4 -1.56,-1.56 -4.12,-2.48 -7.28,-2.48 h -11.56 z m 2.08,-15.08 v -11 h 9.44 c 4.48,0 7,2.08 7,5.16 v 0.08 c 0,3.72 -3,5.76 -7.2,5.76 z m 0,13.16 v -11.24 h 9.48 c 5.52,0 8.52,2 8.52,5.44 v 0.08 c 0,3.52 -3.04,5.72 -7.84,5.72 z"
+       style=""
+       id="path872" />
+    <path
+       d="m 399.32445,-33.886719 h 2.16 l 3.56,-7.84 h 16.52 l 3.56,7.84 h 2.28 l -13.04,-28.2 h -2 z m 6.6,-9.72 7.4,-16.2 7.36,16.2 z"
+       style=""
+       id="path874" />
+    <path
+       d="m 433.28695,-33.886719 h 9.32 c 8.8,0 14.88,-6.12 14.88,-14 v -0.08 c 0,-7.88 -6.08,-13.92 -14.88,-13.92 h -9.32 z m 2.08,-1.92 v -24.16 h 7.24 c 7.8,0 12.72,5.44 12.72,12.08 v 0.08 c 0,6.68 -4.92,12 -12.72,12 z"
+       style=""
+       id="path876" />
+  </g>
+  <g
+     aria-label="IT'S GOOD!"
+     transform="matrix(0.40715605,0,0,0.40715605,238.54976,36.997123)"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00104523px;line-height:1.25;font-family:Gotham;-inkscape-font-specification:'Gotham, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-     transform="matrix(0.40715605,0,0,0.40715605,238.54976,36.997123)"><flowRegion
-       id="flowRegion881-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00104523px;font-family:Gotham;-inkscape-font-specification:'Gotham, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"><rect
-         id="rect883-6"
-         width="520.53528"
-         height="66.106659"
-         x="-21.889624"
-         y="-70.88678"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00104523px;font-family:Gotham;-inkscape-font-specification:'Gotham, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
-       id="flowPara885-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00104523px;font-family:Gotham;-inkscape-font-specification:'Gotham, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">IT'S GOOD!</flowPara></flowRoot></svg>
+     id="flowRoot879-6">
+    <path
+       d="m -18.248577,-33.885752 h 6.160161 v -28.000732 h -6.160161 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00104523px;font-family:Gotham;-inkscape-font-specification:'Gotham, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       id="path825" />
+    <path
+       d="m 1.4294372,-33.885752 h 6.160161 v -22.320583 h 8.5202228 v -5.680149 H -7.0907854 v 5.680149 h 8.5202226 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00104523px;font-family:Gotham;-inkscape-font-specification:'Gotham, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       id="path827" />
+    <path
+       d="M 19.767418,-49.12615 H 22.9275 l 4.360114,-12.560328 v -0.200006 h -6.800178 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00104523px;font-family:Gotham;-inkscape-font-specification:'Gotham, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       id="path829" />
+    <path
+       d="m 42.214254,-33.485741 c 6.040158,0 10.280268,-3.120082 10.280268,-8.680227 v -0.08 c 0,-4.880128 -3.200083,-6.920181 -8.880232,-8.40022 -4.840126,-1.240032 -6.040158,-1.840048 -6.040158,-3.680096 v -0.08 c 0,-1.360036 1.240033,-2.440064 3.600095,-2.440064 2.360061,0 4.800125,1.040027 7.28019,2.760072 l 3.200083,-4.640121 c -2.840074,-2.28006 -6.320165,-3.560093 -10.400271,-3.560093 -5.72015,0 -9.800256,3.360088 -9.800256,8.440221 v 0.08 c 0,5.560145 3.640095,7.120186 9.280242,8.560223 4.680122,1.200032 5.640147,2.000053 5.640147,3.560093 v 0.08 c 0,1.640043 -1.520039,2.640069 -4.040105,2.640069 -3.200084,0 -5.840153,-1.320034 -8.360219,-3.400088 l -3.640095,4.360113 c 3.360088,3.000079 7.6402,4.480118 11.880311,4.480118 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00104523px;font-family:Gotham;-inkscape-font-specification:'Gotham, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       id="path831" />
+    <path
+       d="m 83.39158,-33.405739 c 5.120134,0 9.080237,-2.000053 11.960312,-4.440116 V -50.006173 H 83.191575 v 5.320139 h 6.200162 v 4.000104 c -1.560041,1.12003 -3.560093,1.680044 -5.800152,1.680044 -4.96013,0 -8.480221,-3.760098 -8.480221,-8.880232 v -0.08 c 0,-4.760124 3.560093,-8.720228 8.04021,-8.720228 3.240084,0 5.160134,1.040027 7.320191,2.840075 l 3.880101,-4.680123 c -2.920076,-2.480065 -5.960155,-3.8401 -11.000287,-3.8401 -8.480222,0 -14.680384,6.52017 -14.680384,14.480378 v 0.08 c 0,8.280217 6.000157,14.400377 14.720385,14.400377 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00104523px;font-family:Gotham;-inkscape-font-specification:'Gotham, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       id="path833" />
+    <path
+       d="m 114.84052,-33.405739 c 8.64023,0 14.92039,-6.520171 14.92039,-14.480379 v -0.08 c 0,-7.960208 -6.20016,-14.400376 -14.84038,-14.400376 -8.64023,0 -14.92039,6.52017 -14.92039,14.480378 v 0.08 c 0,7.960208 6.20016,14.400377 14.84038,14.400377 z m 0.08,-5.680149 c -4.96013,0 -8.48023,-4.000104 -8.48023,-8.80023 v -0.08 c 0,-4.800125 3.44009,-8.720228 8.40022,-8.720228 4.96013,0 8.48023,4.000105 8.48023,8.80023 v 0.08 c 0,4.800126 -3.44009,8.720228 -8.40022,8.720228 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00104523px;font-family:Gotham;-inkscape-font-specification:'Gotham, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       id="path835" />
+    <path
+       d="m 148.82578,-33.405739 c 8.64023,0 14.92039,-6.520171 14.92039,-14.480379 v -0.08 c 0,-7.960208 -6.20016,-14.400376 -14.84038,-14.400376 -8.64023,0 -14.92039,6.52017 -14.92039,14.480378 v 0.08 c 0,7.960208 6.20016,14.400377 14.84038,14.400377 z m 0.08,-5.680149 c -4.96013,0 -8.48023,-4.000104 -8.48023,-8.80023 v -0.08 c 0,-4.800125 3.44009,-8.720228 8.40022,-8.720228 4.96013,0 8.48023,4.000105 8.48023,8.80023 v 0.08 c 0,4.800126 -3.44009,8.720228 -8.40022,8.720228 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00104523px;font-family:Gotham;-inkscape-font-specification:'Gotham, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       id="path837" />
+    <path
+       d="m 169.2107,-33.885752 h 10.92029 c 8.80023,0 14.88039,-6.12016 14.88039,-14.000366 v -0.08 c 0,-7.880206 -6.08016,-13.920364 -14.88039,-13.920364 H 169.2107 Z m 6.16017,-5.560145 v -16.880441 h 4.76012 c 5.04013,0 8.44022,3.480091 8.44022,8.44022 v 0.08 c 0,4.96013 -3.40009,8.360219 -8.44022,8.360219 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00104523px;font-family:Gotham;-inkscape-font-specification:'Gotham, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       id="path839" />
+    <path
+       d="m 201.90155,-43.406001 h 3.36009 l 1.88005,-17.680462 v -0.800021 h -7.12019 v 0.800021 z m -1.56004,9.520249 h 6.48017 v -6.400167 h -6.48017 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00104523px;font-family:Gotham;-inkscape-font-specification:'Gotham, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+       id="path841" />
+  </g>
+</svg>
