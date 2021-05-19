@@ -1,16 +1,23 @@
-# OkayNotionClient
-This is an okay notion client for C# use.
-
-Definitely not perfect. but here it is.
-
-It exposes notion databases, pages and properties as objects.
+# This is an Okay Notion Client
+_Providing access to Notion.so's API for .NET users._
 
 
-here is what it looks like in dynamo:
+### Before use, read up on Notion's API at [Notion Developer Portal](https://developers.notion.com/)
 
-<img src="https://github.com/johnpierson/OkayNotionClient/blob/main/!documentation/00_Nodes.png" alt="NotionNodes" width="500">
+## Actions Supported
 
-the long term goal of this would be to enable a full object-oriented notion C# library.
+### Authentication
+- Authentication with RestSharp and your notion access token.
+- 
+### Read
+- List Databases for given access token
+- List pages for selected database
+- Read database properties
+
+### Write
+- NOT SUPPORTED (YET)
+
+---
 
 ## Usage
 
