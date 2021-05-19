@@ -3,9 +3,17 @@
     <br>
   <img src="https://github.com/johnpierson/OkayNotionClient/blob/main/!documentation/notion-logo-white.png" alt="Relay" width="200">
 </h1>
-<h4 align="center">Okay Notion Client aims to provide easy and okay access to Notion.so's API for .NET users..</h4>
+<h4 align="center">Okay Notion Client aims to provide easy and okay access to Notion.so's API for .NET users..
+    <br>
+<sub><sup>Notion logo credit: <a href="https://www.notion.so/Media-Kit-205535b1d9c4440497a3d7a2ac096286">Notion Media Kit</a></sub></sup>
+</h4>
+
+
 
 ---
+<h1 align="center">
+<img src="https://github.com/johnpierson/OkayNotionClient/blob/main/!documentation/its-better-than-bad-its-good.svg" alt="Relay" width="400">
+</h1>
 
 ### Before use, read up on Notion's API at [Notion Developer Portal](https://developers.notion.com/)
 
