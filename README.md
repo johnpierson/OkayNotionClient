@@ -70,3 +70,6 @@ resulting in:
 The `OkayNotionClient` project relies on a few community-published NuGet packages as listed below :
 * [Newtonsoft](https://www.nuget.org/packages/newtonsoft.json/) - handles serializing and deserializing to JSON
 * [RestSharp](https://www.nuget.org/packages/RestSharp/) - enables easier interaction with REST API endpoints
+
+## Special Thanks
+Special thanks to Radu for sharing [DynaWeb](https://github.com/radumg/DynaWeb). This package really helped me understand REST calls.
